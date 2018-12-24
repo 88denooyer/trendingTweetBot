@@ -1,0 +1,364 @@
+[
+  {
+    "trends": [
+      {
+        "name": "#MUFC",
+        "url": "http://twitter.com/search?q=%23MUFC",
+        "promoted_content": null,
+        "query": "%23MUFC",
+        "tweet_volume": 125620
+      },
+      {
+        "name": "#ResignTrump",
+        "url": "http://twitter.com/search?q=%23ResignTrump",
+        "promoted_content": null,
+        "query": "%23ResignTrump",
+        "tweet_volume": 218689
+      },
+      {
+        "name": "Brett McGurk",
+        "url": "http://twitter.com/search?q=%22Brett+McGurk%22",
+        "promoted_content": null,
+        "query": "%22Brett+McGurk%22",
+        "tweet_volume": 38049
+      },
+      {
+        "name": "Wake Forest",
+        "url": "http://twitter.com/search?q=%22Wake+Forest%22",
+        "promoted_content": null,
+        "query": "%22Wake+Forest%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Caturday",
+        "url": "http://twitter.com/search?q=%23Caturday",
+        "promoted_content": null,
+        "query": "%23Caturday",
+        "tweet_volume": 10166
+      },
+      {
+        "name": "Shadow Creek",
+        "url": "http://twitter.com/search?q=%22Shadow+Creek%22",
+        "promoted_content": null,
+        "query": "%22Shadow+Creek%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Crystal Palace",
+        "url": "http://twitter.com/search?q=%22Crystal+Palace%22",
+        "promoted_content": null,
+        "query": "%22Crystal+Palace%22",
+        "tweet_volume": 45141
+      },
+      {
+        "name": "Patrice Bergeron",
+        "url": "http://twitter.com/search?q=%22Patrice+Bergeron%22",
+        "promoted_content": null,
+        "query": "%22Patrice+Bergeron%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "#BritishPickUpLines",
+        "url": "http://twitter.com/search?q=%23BritishPickUpLines",
+        "promoted_content": null,
+        "query": "%23BritishPickUpLines",
+        "tweet_volume": null
+      },
+      {
+        "name": "Grant Williams",
+        "url": "http://twitter.com/search?q=%22Grant+Williams%22",
+        "promoted_content": null,
+        "query": "%22Grant+Williams%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "#BirminghamBowl",
+        "url": "http://twitter.com/search?q=%23BirminghamBowl",
+        "promoted_content": null,
+        "query": "%23BirminghamBowl",
+        "tweet_volume": null
+      },
+      {
+        "name": "Phil Varone",
+        "url": "http://twitter.com/search?q=%22Phil+Varone%22",
+        "promoted_content": null,
+        "query": "%22Phil+Varone%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Kyle Alexander",
+        "url": "http://twitter.com/search?q=%22Kyle+Alexander%22",
+        "promoted_content": null,
+        "query": "%22Kyle+Alexander%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Jacksonville State",
+        "url": "http://twitter.com/search?q=%22Jacksonville+State%22",
+        "promoted_content": null,
+        "query": "%22Jacksonville+State%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Jay Wright",
+        "url": "http://twitter.com/search?q=%22Jay+Wright%22",
+        "promoted_content": null,
+        "query": "%22Jay+Wright%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Sergio Ramos",
+        "url": "http://twitter.com/search?q=%22Sergio+Ramos%22",
+        "promoted_content": null,
+        "query": "%22Sergio+Ramos%22",
+        "tweet_volume": 19548
+      },
+      {
+        "name": "Marcquise Reed",
+        "url": "http://twitter.com/search?q=%22Marcquise+Reed%22",
+        "promoted_content": null,
+        "query": "%22Marcquise+Reed%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "David Hogg",
+        "url": "http://twitter.com/search?q=%22David+Hogg%22",
+        "promoted_content": null,
+        "query": "%22David+Hogg%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Brady White",
+        "url": "http://twitter.com/search?q=%22Brady+White%22",
+        "promoted_content": null,
+        "query": "%22Brady+White%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Joe Strummer",
+        "url": "http://twitter.com/search?q=%22Joe+Strummer%22",
+        "promoted_content": null,
+        "query": "%22Joe+Strummer%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Arkansas State",
+        "url": "http://twitter.com/search?q=%22Arkansas+State%22",
+        "promoted_content": null,
+        "query": "%22Arkansas+State%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Phil Booth",
+        "url": "http://twitter.com/search?q=%22Phil+Booth%22",
+        "promoted_content": null,
+        "query": "%22Phil+Booth%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Jordan Bone",
+        "url": "http://twitter.com/search?q=%22Jordan+Bone%22",
+        "promoted_content": null,
+        "query": "%22Jordan+Bone%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Martial",
+        "url": "http://twitter.com/search?q=Martial",
+        "promoted_content": null,
+        "query": "Martial",
+        "tweet_volume": 48782
+      },
+      {
+        "name": "Pekka Rinne",
+        "url": "http://twitter.com/search?q=%22Pekka+Rinne%22",
+        "promoted_content": null,
+        "query": "%22Pekka+Rinne%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Chandler Morris",
+        "url": "http://twitter.com/search?q=%22Chandler+Morris%22",
+        "promoted_content": null,
+        "query": "%22Chandler+Morris%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Ethan Happ",
+        "url": "http://twitter.com/search?q=%22Ethan+Happ%22",
+        "promoted_content": null,
+        "query": "%22Ethan+Happ%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "RB Darius Jackson",
+        "url": "http://twitter.com/search?q=%22RB+Darius+Jackson%22",
+        "promoted_content": null,
+        "query": "%22RB+Darius+Jackson%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Bayern",
+        "url": "http://twitter.com/search?q=Bayern",
+        "promoted_content": null,
+        "query": "Bayern",
+        "tweet_volume": 19447
+      },
+      {
+        "name": "Savannah State",
+        "url": "http://twitter.com/search?q=%22Savannah+State%22",
+        "promoted_content": null,
+        "query": "%22Savannah+State%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Violence Against Women Act",
+        "url": "http://twitter.com/search?q=%22Violence+Against+Women+Act%22",
+        "promoted_content": null,
+        "query": "%22Violence+Against+Women+Act%22",
+        "tweet_volume": 43717
+      },
+      {
+        "name": "Ander Herrera",
+        "url": "http://twitter.com/search?q=%22Ander+Herrera%22",
+        "promoted_content": null,
+        "query": "%22Ander+Herrera%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Mike Fiers",
+        "url": "http://twitter.com/search?q=%22Mike+Fiers%22",
+        "promoted_content": null,
+        "query": "%22Mike+Fiers%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Leicester",
+        "url": "http://twitter.com/search?q=Leicester",
+        "promoted_content": null,
+        "query": "Leicester",
+        "tweet_volume": 38884
+      },
+      {
+        "name": "Jahvon Quinerly",
+        "url": "http://twitter.com/search?q=%22Jahvon+Quinerly%22",
+        "promoted_content": null,
+        "query": "%22Jahvon+Quinerly%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Jalen Adams",
+        "url": "http://twitter.com/search?q=%22Jalen+Adams%22",
+        "promoted_content": null,
+        "query": "%22Jalen+Adams%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Jacob Nilsson",
+        "url": "http://twitter.com/search?q=%22Jacob+Nilsson%22",
+        "promoted_content": null,
+        "query": "%22Jacob+Nilsson%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Modric",
+        "url": "http://twitter.com/search?q=Modric",
+        "promoted_content": null,
+        "query": "Modric",
+        "tweet_volume": 19823
+      },
+      {
+        "name": "Admiral Schofield",
+        "url": "http://twitter.com/search?q=%22Admiral+Schofield%22",
+        "promoted_content": null,
+        "query": "%22Admiral+Schofield%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "#HalaMadrid",
+        "url": "http://twitter.com/search?q=%23HalaMadrid",
+        "promoted_content": null,
+        "query": "%23HalaMadrid",
+        "tweet_volume": 55906
+      },
+      {
+        "name": "#Hoyas",
+        "url": "http://twitter.com/search?q=%23Hoyas",
+        "promoted_content": null,
+        "query": "%23Hoyas",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SGEFCB",
+        "url": "http://twitter.com/search?q=%23SGEFCB",
+        "promoted_content": null,
+        "query": "%23SGEFCB",
+        "tweet_volume": null
+      },
+      {
+        "name": "#RedWings",
+        "url": "http://twitter.com/search?q=%23RedWings",
+        "promoted_content": null,
+        "query": "%23RedWings",
+        "tweet_volume": null
+      },
+      {
+        "name": "#AsNaturalAsBreathing",
+        "url": "http://twitter.com/search?q=%23AsNaturalAsBreathing",
+        "promoted_content": null,
+        "query": "%23AsNaturalAsBreathing",
+        "tweet_volume": null
+      },
+      {
+        "name": "#IDrinkAtChristmasBecause",
+        "url": "http://twitter.com/search?q=%23IDrinkAtChristmasBecause",
+        "promoted_content": null,
+        "query": "%23IDrinkAtChristmasBecause",
+        "tweet_volume": null
+      },
+      {
+        "name": "#genLOCK",
+        "url": "http://twitter.com/search?q=%23genLOCK",
+        "promoted_content": null,
+        "query": "%23genLOCK",
+        "tweet_volume": null
+      },
+      {
+        "name": "#screenshotsaturday",
+        "url": "http://twitter.com/search?q=%23screenshotsaturday",
+        "promoted_content": null,
+        "query": "%23screenshotsaturday",
+        "tweet_volume": null
+      },
+      {
+        "name": "#The80sTaughtMe",
+        "url": "http://twitter.com/search?q=%23The80sTaughtMe",
+        "promoted_content": null,
+        "query": "%23The80sTaughtMe",
+        "tweet_volume": 13485
+      },
+      {
+        "name": "#ChristmasEveEveEve",
+        "url": "http://twitter.com/search?q=%23ChristmasEveEveEve",
+        "promoted_content": null,
+        "query": "%23ChristmasEveEveEve",
+        "tweet_volume": null
+      },
+      {
+        "name": "#LMAFB",
+        "url": "http://twitter.com/search?q=%23LMAFB",
+        "promoted_content": null,
+        "query": "%23LMAFB",
+        "tweet_volume": null
+      }
+    ],
+    "as_of": "2018-12-22T19:33:12Z",
+    "created_at": "2018-12-22T19:28:02Z",
+    "locations": [
+      {
+        "name": "United States",
+        "woeid": 23424977
+      }
+    ]
+  }
+]
